@@ -28,9 +28,9 @@ show_help() {
   echo ""
   echo "Example:"
   echo "  $0 /path/to/project"
-  echo "  $0 ~/Projects/elizaos/eliza"
+  echo "  $0 ~/Projects/my-project"
   echo ""
-  echo "The script uses sha1-hulud-packages.txt file (350+ packages)"
+  echo "The script uses sha1-hulud-packages.txt file (288+ packages)"
 }
 
 # Check if argument provided
